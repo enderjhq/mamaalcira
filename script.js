@@ -1,0 +1,2 @@
+jquery('document').ready(function($){
+
