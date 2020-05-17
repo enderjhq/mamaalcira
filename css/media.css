@@ -1,0 +1,20 @@
+:root{
+--letras-color:#000;
+--fondos-color:#85a392;
+--fondo-central: #f8f8f8;
+--hover-color:#eccc68;
+--iconos-color:#30475e;
+/*---fuentes---*/
+--titulos-:'Fjalla One', sans-serif;
+--texto-:'source sans pro', sans-serif;
+}
+/*---variables---*/
+
+@media (max-width: 768px){
+.containers{
+	display: inherit;
+}
+.icons-container{
+	display: none;
+}
+}
