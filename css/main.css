@@ -159,6 +159,7 @@ nav.navbar {
 }
 .texto-container-2 {
     margin: 20px 0;
+    padding: 10px 0;
     background-color:var(--fondos-color); 
     
 }
@@ -183,6 +184,7 @@ justify-content: center;
   width: 100%;
   height: 0;
   padding-top: 75%;
+  padding-left: 10px;
   position:relative;
 }
 .maps{
@@ -194,6 +196,9 @@ justify-content: center;
  width: 100%;
  height: 100%;
 
+}
+.containers-ubication{
+ padding: 15px;
 }
 .containers-ubication h1{
     display: flex;
